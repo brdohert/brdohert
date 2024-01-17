@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brdohert
 - 👀 I’m interested in BigData
-- 🌱 I’m currently learning DataBricks, python
+- 🌱 I’m currently learning DataBricks, python, AI & Cognitive Search
 - 💞️ I’m looking to collaborate on ADLS, terraform
 - 📫 How to reach me brian.doherty@microsoft.com
 
