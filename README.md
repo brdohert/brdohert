@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brdohert
 - 👀 I’m interested in BigData, DataBricks, Apache Spark
 - 🌱 I’m currently learning LangChain, Apache NiFi, TensorFlow
-- 💞️ I’m looking to collaborate on LangChain
+- 💞️ I’m looking to collaborate on LangChain & semantic kernal 
 - 📫 How to reach me brian.doherty@microsoft.com 
 
 <!---
